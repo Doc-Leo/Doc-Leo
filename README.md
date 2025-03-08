@@ -6,13 +6,14 @@
 # DOC LEO
 
 [![I just know some of this](https://skillicons.dev/icons?i=python,kali,linux,bash,redhat,vim,)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc-Leo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc-Leo&hide_progress=true)
+
 
 
 
