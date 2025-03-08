@@ -5,14 +5,8 @@
 
 # DOC LEO
 
-[![My Skills](https://skillicons.dev/icons?i=js,Kali,linux,bash)](https://skillicons.dev)
+[![I just know some of this](https://skillicons.dev/icons?i=python,kali,linux,bash,burpsuit,nmap,metasploit)](https://skillicons.dev)
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redhat,kali,bash,linux,python,vim" />
-  </a>
-</p>
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 
