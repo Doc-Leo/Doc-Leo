@@ -15,7 +15,7 @@
 
 
 
-![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
+
 
 
 
@@ -25,7 +25,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/dc730.png" alt="Your Image Badge" />
 
-![1372963](https://assets.tryhackme.com/room-badges/80fe798a874c21b238240ffc401cfb2f.png)
+
+![image](https://github.com/user-attachments/assets/3c79aded-5408-4673-9b34-86292accd1ca)
 
 
 
