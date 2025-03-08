@@ -1,6 +1,6 @@
 # Doc Leo
 
-
+<div><span style="color: #ff0000">D</span><span style="color: #ff7f00">o</span><span style="color: #ffff00">c</span><span style="color: #80ff00"> </span><span style="color: #00ff00">L</span><span style="color: #00ffff">e</span><span style="color: #0000ff">o</span></div>
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
