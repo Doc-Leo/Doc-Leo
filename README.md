@@ -8,18 +8,18 @@
 
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,linux,c,vim" />
+  </a>
+</p>
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 
 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,linux,c,vim" />
-  </a>
-</p>
+
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
 
