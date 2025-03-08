@@ -6,6 +6,10 @@
 # DOC LEO
 
 [![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim,postman)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim,postman" alt="I just know some of this" width="200" />
+</a>
+
 
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
