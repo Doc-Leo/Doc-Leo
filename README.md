@@ -5,7 +5,7 @@
 
 # DOC LEO
 
-[![I just know some of this](https://skillicons.dev/icons?i=python,kali,linux,bash,redhat,vim,)](https://skillicons.dev)
+[![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,redhat,vim,neovim,postman,redhat,wireshark)](https://skillicons.dev)
 
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
