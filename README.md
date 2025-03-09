@@ -27,10 +27,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dc730.png" alt="Your Image Badge" />
 
-
-![image](https://github.com/user-attachments/assets/3c79aded-5408-4673-9b34-86292accd1ca)
 
 
 
