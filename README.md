@@ -4,7 +4,7 @@
 
 
 # Doc-Leo
-[![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim,sqlite,postman)](https://skillicons.dev)
+[![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim)](https://skillicons.dev)
 #
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,react,html,css,ts,discord,github" alt="I just know some of this" width="200" />
 </a>
