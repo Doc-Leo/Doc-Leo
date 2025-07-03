@@ -21,13 +21,6 @@
 
 
 
-<a href="https://app.daily.dev/dcleo"><img src="https://api.daily.dev/devcards/v2/RKuZ3mFuz6ACy9y5VPLZi.png?type=wide&r=o4v" width="652" alt="doc-leo's Dev Card"/></a>
-
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/tcache.png" alt="Your Image Badge" />
-
-
 
 
 ## Pull me up @
