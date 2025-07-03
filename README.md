@@ -23,10 +23,9 @@
 
 
 
-## Pull me up @
 
 
 
 
-[Doc730](https://doc730.link/)
+ 
 
