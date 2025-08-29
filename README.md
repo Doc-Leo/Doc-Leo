@@ -128,13 +128,12 @@ Timezone: PHT (UTC+8)
 
 <div align="center">
   
-<table>
+
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/🎯-EXPERIENCE-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
+      <img src="https://img.shields.io/badge/EXPERIENCE-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
     </td>
   </tr>
-</table>
 
 </div>
 
