@@ -34,27 +34,23 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 
 <div align="center">
 
+<div align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uTVS7dsJq0IWHgkl5LiyrwAAAA%3Fpid%3DApi&f=1&ipt=f8e815651736bda565c6317e7326863130d80792c544cc120650be8e8e2e4908&ipo=images" width="90px" alt="TryHackMe" style="margin: 0 15px;"/>
+  
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.R8l3y2qxFpZq-jH2g7UakAAAAA%3Fpid%3DApi&f=1&ipt=f47a3275555f2644f511665f9cffc6e81375833c62d14e371e78280d3bc1a5d1&ipo=images" width="90px" alt="HackTheBox" style="margin: 0 15px;"/>
 
+  
+</div>
+<br>
+<div align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.JqaHdOP9EIawkH-ZrCx0zQHaCS%3Fr%3D0%26pid%3DApi&f=1&ipt=4de95863428e11bd966930ad4aea9ab7f0136beb7bc3f028a0dc42229c0e5329&ipo=images" width="200px" alt="TryHackMe"/>
+    <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" width="220px" alt="picoCTF" style="margin: 0 15px;"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.bIiM-X8wbRxVKJY9pWRmbQHaB4%3Fr%3D0%26pid%3DApi&f=1&ipt=aa797ac1f45c5b2b791cbe6f9f13842a0966af3a0b26bcf2332da56229e6707b&ipo=images" width="200px" alt="TryHackMe"/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uTVS7dsJq0IWHgkl5LiyrwAAAA%3Fpid%3DApi&f=1&ipt=f8e815651736bda565c6317e7326863130d80792c544cc120650be8e8e2e4908&ipo=images" width="90px" alt="TryHackMe"/>
-      <br><br>
-      <a href="https://tryhackme.com/p/doc730">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/doc730.png" width="220px" alt="TryHackMe Badge"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.R8l3y2qxFpZq-jH2g7UakAAAAA%3Fpid%3DApi&f=1&ipt=f47a3275555f2644f511665f9cffc6e81375833c62d14e371e78280d3bc1a5d1&ipo=images" width="90px" alt="HackTheBox"/>
-      <br><br>
-      <a href="https://app.hackthebox.com/profile/2355256">
-        <img src="https://www.hackthebox.com/badge/image/2355256" width="220px" alt="HackTheBox Badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+</div>
+<br>
+<div>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.0Ye4v5yLYaNfgCc5eHmOyQAAAA%3Fpid%3DApi&f=1&ipt=24759a5f51e791da5c3ecedc8af7722e2db9c3315f40af898fb23fed65c6cd0b&ipo=images" width="200px" alt="TryHackMe"/>
 </div>
 
 ---
