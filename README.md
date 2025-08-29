@@ -19,11 +19,13 @@ WHOAMI
 
 alias: "Doc-Leo"
 location: "Philippines" "14.6760° N | 121.0437° E"
+time_zone: PHT (UTC+8)
 School: "New Era University"
+year_program: "4th year" "BS Computer Science"
 current_focus: ["Penetration Testing", "Linux Persistent", "Security Operations"]
 learning: ["Linux Distributions", "Web Exploit", "Red Team Operations"]
 interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
-Timezone: PHT (UTC+8)
+
 ```
 
 ---
