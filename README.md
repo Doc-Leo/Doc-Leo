@@ -1,4 +1,5 @@
 ---
+![Profile Banner](https://github.com/user-attachments/assets/b418371a-b2ea-4fe5-ab44-7d34bbba5aa7)
 <div align="center">
   
 
@@ -113,8 +114,7 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
   </tbody>
 </table>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Doc-Leo&color=Ff0000&style=flat)](https://github.com/Doc-Leo)
-</div>
+
 
 ---
 
@@ -198,8 +198,10 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 + Year-end event participation
 
 ```
-
-![Profile Banner](https://github.com/user-attachments/assets/b418371a-b2ea-4fe5-ab44-7d34bbba5aa7)
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Doc-Leo&color=Ff0000&style=flat)](https://github.com/Doc-Leo)
+</div>
 
 
 
