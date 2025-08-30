@@ -152,7 +152,7 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 
 <details open>
 <summary>
-  <img src="https://img.shields.io/badge/DEFCON_31_|_METACTF-2025_(ONLINE)-FF0000?style=for-the-badge&logo=defcon&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/DEFCON_33_|_METACTF-2025_(ONLINE)-FF0000?style=for-the-badge&logo=defcon&logoColor=white&labelColor=000000"/>
 </summary>
 
 ```diff
