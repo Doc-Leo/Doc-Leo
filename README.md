@@ -1,7 +1,7 @@
 ---
 <div align="center">
   
-![Profile Banner](https://github.com/user-attachments/assets/b418371a-b2ea-4fe5-ab44-7d34bbba5aa7)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=Ff0000&center=true&vCenter=true&width=435&lines=Red+Team+Operator;Script+Kiddie;Cybersecurity+Enthusiast;CTF+Player" alt="Typing SVG" />
 
@@ -196,9 +196,10 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 + Completed daily cybersecurity challenges
 + Building skills in networking, OSINT, and exploit development
 + Year-end event participation
+
 ```
 
-
+![Profile Banner](https://github.com/user-attachments/assets/b418371a-b2ea-4fe5-ab44-7d34bbba5aa7)
 
 
 
