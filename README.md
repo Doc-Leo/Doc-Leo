@@ -58,66 +58,6 @@ interests: ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 
 
 
-<div align="center">
-
-![Certifications Header](https://github.com/user-attachments/assets/2a2a6a7d-af65-4869-83b8-3f4d5aac3db5)
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">🏢 Organization</th>
-      <th align="center">📋 Certification Title</th>
-      <th align="center">📅 Year</th>
-       </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></td>
-      <td>Introduction to Cybersecurity</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></td>
-      <td>Ethical Hacker</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/FORTINET-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/></td>
-      <td>Introduction to the Threat Landscape</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/FORTINET-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/></td>
-      <td>Certified Associate</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/FORTINET-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/></td>
-      <td>Technical Introduction to Cybersecurity</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/SKILL_FRONT-4285F4?style=for-the-badge&logo=google&logoColor=white"/></td>
-      <td>Information Security Associate ISO/IEC 27001</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/OPSWAT-FF6B35?style=for-the-badge&logo=security&logoColor=white"/></td>
-      <td>Introduction to Critical Infrastructure Protection</td>
-      <td align="center">2024</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/EC_COUNCIL-B31B1B?style=for-the-badge&logo=eccouncil&logoColor=white"/></td>
-      <td>EC-Council Essentials</td>
-      <td align="center">2025</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
----
-
 
 
 
