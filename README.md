@@ -4,7 +4,7 @@
   
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=Ff0000&center=true&vCenter=true&width=435&lines=Offensive+Security;Script+Kiddie;Security+Researcher;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=Ff0000&center=true&vCenter=true&width=435&lines=Offensive+Security;Skid;Linux+Security+enthusiast+red;" alt="Typing SVG" />
 
 
 
