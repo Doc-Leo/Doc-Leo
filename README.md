@@ -16,7 +16,7 @@
 
 ```yaml
 
-WHOAMI
+cat who_amI.txt
 
 alias: "Doc-Leo"
 location: "Philippines" "14.6760° N | 121.0437° E"
