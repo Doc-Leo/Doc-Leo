@@ -12,7 +12,7 @@ Candy@Candy:cat who_amI.txt
 
 alias:        "Doc-Leo"
 location:     "Philippines" "14.6760° N | 121.0437° E"
-time_zone:    PHT (UTC+8)
+time_zone:    "PHT (UTC+8)"
 School:       "New Era University"
 year_program: "4th year" "BS Computer Science"
 
