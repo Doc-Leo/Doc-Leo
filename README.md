@@ -1,4 +1,7 @@
 <div align="center">
+<img width="14402" height="469" alt="image" src="https://github.com/user-attachments/assets/4c5fa545-f653-4d58-ad24-f6e7b3da2337" />
+
+
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=Ff0000&center=true&vCenter=true&width=435&lines=Offensive+Security;Skid;Linux;Security+enthusiast;red;" alt="Typing SVG" />
 </div>
