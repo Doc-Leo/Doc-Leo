@@ -18,8 +18,8 @@ School:       "New Era University"
 year_program: "4th year" "BS Computer Science"
 
 current_focus: ["Penetration Testing", "Linux Persistent", "Security Operations"]
-learning:      ["Linux Distributions", "Web Exploit", "Red Team Operations"]
-interests:     ["Capture The Flag", "Hack and Defense", "Web Exploit"]
+learning:      ["Linux Distributions", "Web Pentest", "Red Team Ops"]
+interests:     ["CTF", "Hack and Defense", "Web Exploit"]
 
 Hack the Box: ["docleooo"]
 Tryhackme:    ["doc730"]
