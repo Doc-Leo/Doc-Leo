@@ -22,7 +22,7 @@ learning:      ["Linux Distributions", "Web Exploit", "Red Team Operations"]
 interests:     ["Capture The Flag", "Hack and Defense", "Web Exploit"]
 
 Hack the Box: ["docleooo"]
-Tryhackme:    ["redirected"]
+Tryhackme:    ["doc730"]
 MetaCTF:      ["doc730"]
 ```
 
