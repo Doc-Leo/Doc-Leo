@@ -14,14 +14,14 @@ Candy@Candy:cat who_amI.txt
 alias:        "Doc-Leo"
 location:     "Philippines" "14.6760° N | 121.0437° E"
 time_zone:    "PHT (UTC+8)"
-School:       "New Era University"
-year_program: "4th year" "BS Computer Science"
+
+
 
 current_focus: ["Penetration Testing", "Linux Persistent", "Security Operations"]
 learning:      ["Linux Distributions", "Web Pentest", "Red Team Ops"]
 interests:     ["CTF", "Hack and Defense", "Web Exploit"]
 
-Hack the Box: ["docleooo"]
+Hack the Box: ["bet4sec"]
 Tryhackme:    ["doc730"]
 MetaCTF:      ["doc730"]
 ```
